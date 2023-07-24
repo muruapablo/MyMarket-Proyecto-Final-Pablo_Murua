@@ -6,3 +6,4 @@ La base de datos servirá para hacer un seguimiento y optimización de un mini m
 
 Un mini mercado con posibilidad de múltiples sucursales, con manejo de stock, y envios a domicilio con variadas formas de pago 
 
+![MyMarket](https://github.com/muruapablo/MyMarket-Proyecto-Final-Pablo_Murua/assets/133605578/c81903a1-12c2-4a2c-a42e-fbb18cdd64e3)
